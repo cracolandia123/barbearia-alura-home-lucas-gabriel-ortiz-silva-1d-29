@@ -1,8 +1,25 @@
 .cabeçalho{background-color: gray;}
 
-.lista{display: inline;}
+.lista{display: inline;
+top: 110px;
+right: 0 0 0 15px;}
+
+nav li{display: inline;}
 
 nav a{text-transform: uppercase;
     color: black;font-weight: bold;
+    font-weight: bold;
     font-size: 22px;
-tex}
+    text-decoration: none;}
+
+    .caixa{position: relative;
+    width: 940px;
+    margin: 0 auto;}
+
+    .produtos{width: 940px;
+    margin: 0 auto;}
+
+    .produtos li{
+
+        
+    }
